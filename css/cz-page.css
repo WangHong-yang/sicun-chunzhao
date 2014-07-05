@@ -1,0 +1,214 @@
+*, html, body {
+	margin: 0;
+	padding: 0;
+	font-size: 16px;
+	font-family: Helvetica, Verdana, sans-serif;
+}
+
+body {
+	background: #F6F6F6;
+	width: 1366px;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+body h1{
+	width: 100%;
+}
+
+body h1 img {
+	border: 0;
+}
+
+#banner-pic {
+	position: absolute;
+	width: 100%;
+}
+
+#join-us-button {
+	position: absolute;
+	z-index: 3;
+	right: 15%;
+	top: 200px;
+}
+
+.to-intro img {
+	border: 0;
+}
+
+.to-intro img:hover{
+	border: 1px dashed #00A0DE;
+}
+
+#click-down1 {
+	position: absolute;
+	top: 500px;
+	left: 50%;
+	margin-left: -78px;
+}
+
+#what-is-sicun {
+	position: absolute;
+	width: 968px;
+	left: 50%;
+	margin-left: -484px;
+	margin-top: 600px;
+}
+
+.to-group img {
+	border: 0;
+}
+
+.to-group img:hover{
+	border: 1px dashed #00A0DE;
+}
+
+#click-down2 {
+	position: absolute;
+	top: 540px;
+	left: 50%;
+	margin-left: -78px;
+}
+
+#group-division {
+	position: absolute;
+	width: 968px;
+	left: 50%;
+	margin-left: -484px;
+	margin-top: 1300px;
+}
+
+.to-learn img {
+	border: 0;
+}
+
+.to-learn img:hover{
+	border: 1px dashed #00A0DE;
+}
+
+#click-down3 {
+	position: absolute;
+	top: 537px;
+	left: 50%;
+	margin-left: -78px;
+}
+
+#what-to-learn {
+	position: absolute;
+	width: 968px;
+	left: 50%;
+	margin-left: -484px;
+	margin-top: 2000px;
+}
+
+#what-to-learn a img {
+	border: 0;
+}
+
+#what-to-learn a img:hover{
+	border: 1px dashed #00ACEE;
+}
+
+.to-found img {
+	border: 0;
+}
+
+.to-found img:hover{
+	border: 1px dashed #00A0DE;
+}
+
+#click-down4 {
+	position: absolute;
+	top: 527px;
+	left: 50%;
+	margin-left: -78px;
+}
+
+#more-to-be-found {
+	position: absolute;
+	width: 448px;
+	left: 50%;
+	margin-left: -224px;
+	margin-top: 2900px;
+	padding-bottom: 205px;
+}
+
+#more-to-be-found img {
+	border: 0;
+}
+
+#more-to-be-found img:hover {
+	border: 1px dashed #00A0DE;
+}
+
+#click-up {
+	position: fixed;
+	z-index: 3;
+	bottom: 20px;
+	right: 20px;
+}
+
+/* foreground (clouds) */
+#parallax-bg2 {
+	z-index: -1;
+	position: fixed;
+	left: 50%; /* align left edge with center of viewport */
+	top: 0;
+	width: 1200px;
+	margin-left: -600px; /* move left by half element's width */
+	}
+	#bg2-1 {
+		position: absolute;
+		top: 162px;
+		left: 200px;
+		}
+	#bg2-2 {
+		position: absolute;
+		top: 300px;
+		left: 1150px;
+		}
+	#bg2-3 {
+		position: absolute;
+		top: 543px;
+		left: -35px;
+		}
+	#bg2-4 {
+		position: absolute;
+		top: 1180px;
+		left: 250px;
+		}
+	#bg2-5 {
+		position: absolute;
+		top: 900px;
+		left: 890px;
+		}
+/* background (clouds) */
+#parallax-bg1 {
+	z-index: -2;
+	position: fixed;
+	left: 50%; /* align left edge with center of viewport */
+	top: 0;
+	width: 1200px;
+	margin-left: -600px; /* move left by half element's width */
+	}
+	#bg1-1 {
+		position: absolute;
+		top: 85px;
+		left: -270px;
+		}
+	#bg1-2 {
+		position: absolute;
+		top: 440px;
+		left: 795px;
+		}
+	#bg1-3 {
+		position: absolute;
+		top: 900px;
+		left: -220px;
+		}
+	#bg1-4 {
+		position: absolute;
+		top: 1020px;
+		left: 790px;
+		}
+
